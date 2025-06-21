@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   #baseUrl: /status-nutrium
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Nutrium Monitor
   introTitle: "**Status Nutrium Monitor**"
   introMessage: Esta página apresenta o monitoramento de disponibilidade do site Nutrium.com, com atualização automática via GitHub Actions.
