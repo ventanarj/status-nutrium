@@ -1,7 +1,7 @@
 url: https://app.nutrium.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-22T23:30:10.134Z
+status: up
+code: 200
+responseTime: 1105
+lastUpdated: 2025-08-22T23:40:44.968Z
 startTime: 2025-06-21T15:09:03.462Z
 generator: Upptime <https://github.com/upptime/upptime>
