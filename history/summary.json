@@ -4,7 +4,7 @@
     "url": "https://app.nutrium.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.nutrium.com.ico",
     "slug": "app-nutrium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 634,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2025-10-21": 0,
       "2025-10-07": 33
     }
   }
