@@ -22,6 +22,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://ventanarj.github.io/status-nutrium)
 
+## 📚 Documentação adicional
+
+- [Provisionamento do Wazuh no OpenShift](./docs/openshift-wazuh-setup.md)
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
